@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
-  <a href="https://daniel-durant.onrender.com/">
+  <a href="https://devdaniel.tech/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge"/>
   </a>
   </div>
