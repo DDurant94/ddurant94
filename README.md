@@ -82,6 +82,4 @@ I am a Full Stack Developer from Kansas.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddurant94&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddurant94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
