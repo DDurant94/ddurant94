@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Full+Stack+Developer;Backend+Specialist;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Backend+Specialist+%7C+Cloud+Explorer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -134,9 +134,16 @@
 
 <br/>
 
-| GitHub Stats | Top Languages |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=DDurant94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDurant94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=DDurant94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDurant94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
