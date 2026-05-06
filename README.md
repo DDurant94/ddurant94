@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,cs,html,css,graphql,dotnet,react,bootstrap,flask,nodejs,vite,postgres,mysql,dynamodb,firebase,gcp,aws,git,github,githubactions,postman,figma,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,cs,r,html,css,graphql,dotnet,react,bootstrap,flask,nodejs,vite,threejs,postgres,mysql,dynamodb,firebase,gcp,aws,linux,ubuntu,git,github,githubactions,postman,figma,vscode,blender&perline=9)](https://skillicons.dev)
 
 </div>
 
