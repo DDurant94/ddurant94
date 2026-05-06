@@ -186,10 +186,6 @@
       <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br/>
       <sub><b>Blender</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Adobe Illustrator" /><br/>
-      <sub><b>Illustrator</b></sub>
-    </td>
   </tr>
 </table>
 
@@ -207,7 +203,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DDurant94&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DDurant94&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
