@@ -6,14 +6,15 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-durant-30a0252b9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannyjdurant@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white)](https://devdaniel.tech/)
 [![Profile Views](https://komarev.com/ghpvc/?username=ddurant94&style=for-the-badge&color=0e75b6)](https://github.com/DDurant94)
 
-<br/>
-<br/>
+
 
 </div>
 
