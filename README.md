@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Full+Stack+Developer;Backend+Specialist;Exploring+Cloud+%26+Machine+Learning" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Full+Stack+Developer;Backend+Specialist;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -130,13 +130,13 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ddurant94&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DDurant94&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
 | GitHub Stats | Top Languages |
 |:---:|:---:|
-| [![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddurant94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/DDurant94) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddurant94&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| <img src="https://github-readme-stats.vercel.app/api?username=DDurant94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDurant94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> |
 
 </div>
 
