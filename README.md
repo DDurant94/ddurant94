@@ -2,15 +2,15 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Full+Stack+Developer;Backend+Specialist;Exploring+Cloud+%26+Machine+Learning" alt="Typing SVG"/>
+
+<br/>
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-durant-30a0252b9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannyjdurant@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white)](https://devdaniel.tech/)
 [![Profile Views](https://komarev.com/ghpvc/?username=ddurant94&style=for-the-badge&color=0e75b6)](https://github.com/DDurant94)
-
-<br/>
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Full+Stack+Developer;Backend+Specialist;Exploring+Cloud+%26+Machine+Learning+%F0%9F%8C%B1" alt="Typing SVG"/>
 
 <br/>
 <br/>
