@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Full+Stack+Engineer+%F0%9F%92%BB;Backend+%7C+APIs+%7C+Cloud+%E2%98%81%EF%B8%8F;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Backend-Focused+Full+Stack+Engineer+%F0%9F%9A%80;APIs+%C2%B7+Cloud+Architecture+%C2%B7+AI+Integration;Python+%C2%B7+TypeScript+%C2%B7+C%23+%C2%B7+React;Turning+Ideas+Into+Scalable+Reality+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -26,7 +26,7 @@
 
 <br/>
 
-What pulled me into software development was simple: the power to bring ideas to life and the challenge of solving real-world problems through code. I began my journey in **December 2023**, enrolled in the **Coding Temple** Full Stack program, and haven't looked back since.
+What pulled me into software development was simple: the power to bring ideas to life and the challenge of solving real-world problems through code. I began my journey in **December 2023**, enrolled in the **Coding Temple Full Stack Software Engineering bootcamp**, and graduated in **June 2024**.
 
 Since then, I've grown into a **Backend-focused Full Stack Engineer** based in **Kansas**, specializing in building **APIs, web applications, data tools, automation pipelines, and AI-integrated cloud solutions**.
 
