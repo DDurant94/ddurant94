@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Backend+Specialist+%7C+Cloud+Explorer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Full+Stack+Developer+%7C+Backend+Specialist;APIs+%7C+AI+%7C+Cloud+%7C+Automation;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -22,17 +22,27 @@
 
 ## 👨‍💻 About Me
 
-> *"Code is not just a tool — it's how I solve real-world problems."*
+> *"I started with an idea and a blank screen — now I build the tools that turn ideas into reality."*
 
 <br/>
 
-- 🏠 Full Stack Developer based in **Kansas**
-- 💻 **Backend Specialist** with a passion for clean, scalable architecture
-- 🌱 Currently exploring **AWS**, **Google Cloud**, and the path to **Machine Learning**
-- 🤖 Diving into AI tooling with **HuggingFace**
-- ⚡ In my free time I sharpen my skills on **LeetCode**, **HackerEarth**, and **Codewars**
-- 📰 Love reading the latest tech articles and staying ahead of the curve
-- 📫 Reach me anytime on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-durant-30a0252b9/)
+What pulled me into software development was simple: the power to bring ideas to life and the challenge of solving real-world problems through code. I began my journey in **December 2023**, enrolled in **Coding Temple's Full Stack Software Engineering program** in February 2024, and graduated in **October 2024** — building a strong foundation in both frontend and backend development in under a year.
+
+Since then, I've grown into a **Backend-focused Full Stack Developer** based in **Kansas**, specializing in building **APIs, web applications, data tools, automation pipelines, and AI-integrated cloud solutions** using VMs and LLMs. One of my proudest achievements is an **AI Image Grader** capable of evaluating any form of handwriting — a project woven into a larger automated document processing pipeline that handles grading end-to-end.
+
+I'm driven by clean architecture, scalable systems, and the belief that well-crafted software can make a meaningful difference. Explore my work at **[devdaniel.tech](https://devdaniel.tech/)**.
+
+<br/>
+
+| | |
+|---|---|
+| 🏠 **Location** | Kansas, USA |
+| 💻 **Specialty** | Backend Development · APIs · Cloud Architecture |
+| 🤖 **Focus Areas** | AI Integration · LLMs · Automation Pipelines |
+| 🌱 **Expanding Into** | AWS · Google Cloud · Machine Learning |
+| 🧠 **Sharpening Skills** | LeetCode · HackerEarth · Codewars |
+| 🌐 **Portfolio** | [devdaniel.tech](https://devdaniel.tech/) |
+| 📫 **Contact** | [LinkedIn](https://www.linkedin.com/in/daniel-durant-30a0252b9/) · [Gmail](mailto:dannyjdurant@gmail.com) |
 
 <br/>
 
