@@ -215,11 +215,6 @@ I'm driven by clean architecture, scalable systems, and the belief that well-cra
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DDurant94&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-<br/>
-<br/>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=DDurant94&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&row=2)](https://github.com/DDurant94)
-
 </div>
 
 <br/>
