@@ -215,6 +215,17 @@ I'm driven by clean architecture, scalable systems, and the belief that well-cra
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DDurant94&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
+<br/>
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DDurant94&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false)](https://github.com/DDurant94)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DDurant94&layout=compact&theme=dark&count_private=true&langs_count=8&hide_border=false)](https://github.com/DDurant94)
+
+<br/>
+<br/>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=DDurant94&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&row=1)](https://github.com/DDurant94)
+
 </div>
 
 <br/>
