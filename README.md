@@ -215,7 +215,7 @@ I’m currently completing the **Microsoft Full-Stack Developer Professional Cer
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DDurant94&theme=dark&hide_border=false)](https://git.io/streak-stats)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDurant94&show_icons=true&theme=dark)
 
 </div>
 
