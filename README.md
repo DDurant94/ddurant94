@@ -2,10 +2,8 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Backend-Focused+Full+Stack+Engineer+%F0%9F%9A%80;APIs+%C2%B7+Cloud+Architecture+%C2%B7+AI+Integration;Python+%C2%B7+TypeScript+%C2%B7+C%23+%C2%B7+React;Turning+Ideas+Into+Scalable+Reality+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Developer+Focused+on+APIs%2C+Backend+Systems%2C+and+Full-Stack+Applications" alt="Typing SVG" />
 
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -18,41 +16,51 @@
 
 ---
 
-<br/>
-
 ## 👨‍💻 About Me
 
-> *"I started with an idea and a blank screen — now I build the tools that turn ideas into reality."*
+I’m Daniel Durant, a developer based in Kansas with a strong interest in APIs, backend systems, and full-stack applications.
 
-<br/>
+I began my software development journey in December 2023 and have been building projects that strengthen my skills across backend development, web applications, automation, and cloud technologies. I enjoy creating practical, well-structured solutions and continuing to grow through hands-on development.
 
-What pulled me into software development was simple: the power to bring ideas to life and the challenge of solving real-world problems through code. I began my journey in **December 2023**, enrolled in the **Coding Temple Full Stack Software Engineering bootcamp**, and graduated in **June 2024**.
-
-Since then, I've grown into a **Backend-focused Full Stack Engineer** based in **Kansas**, specializing in building **APIs, web applications, data tools, automation pipelines, and AI-integrated cloud solutions**.
-
-I'm driven by clean architecture, scalable systems, and the belief that well-crafted software can make a meaningful difference. Explore my work at **[devdaniel.tech](https://devdaniel.tech/)**.
-
-<br/>
+I’m currently completing the **Microsoft Full-Stack Developer Professional Certificate** on Coursera, where I’m expanding my knowledge of C#, .NET, Blazor, and modern full-stack development practices.
 
 | | |
 |---|---|
 | 🏠 **Location** | Kansas, USA |
-| 💻 **Specialty** | Backend Development · APIs · Cloud Architecture |
-| 🤖 **Focus Areas** | AI Integration · LLMs · Automation Pipelines |
-| 🌱 **Expanding Into** | AWS · Google Cloud · Machine Learning |
-| 🧠 **Sharpening Skills** | LeetCode · HackerEarth · Codewars |
+| 💻 **Primary Interests** | Backend Development · Full-Stack Applications · APIs |
+| 🌱 **Currently Learning** | Microsoft Full-Stack Developer Professional Certificate |
+| ☁️ **Exploring** | AWS · Google Cloud · Machine Learning |
+| 🧠 **Skill Building** | LeetCode · HackerEarth · Codewars |
 | 🌐 **Portfolio** | [devdaniel.tech](https://devdaniel.tech/) |
 | 📫 **Contact** | [LinkedIn](https://www.linkedin.com/in/daniel-durant-30a0252b9/) · [Gmail](mailto:dannyjdurant@gmail.com) |
 
-<br/>
+---
+
+## 🚀 Current Focus
+
+- Completing the **Microsoft Full-Stack Developer Professional Certificate** on Coursera
+- Building projects that strengthen my skills in **APIs, backend systems, and full-stack development**
+- Expanding my knowledge of **C#, .NET, Blazor, cloud platforms, and modern software development practices**
 
 ---
 
-<br/>
+## 📌 Featured Projects
+
+- [**DevDaniel-Portfolio**](https://github.com/DDurant94/DevDaniel-Portfolio)  
+  Personal portfolio site showcasing my projects, design approach, and front-end development work.
+
+- [**Advanced-E-Commerce-API**](https://github.com/DDurant94/Advanced-E-Commerce-API)  
+  A backend API project focused on building structured, scalable functionality for e-commerce workflows.
+
+- [**Inventory-Management-System-Module-One-C-Sharp**](https://github.com/DDurant94/Inventory-Management-System-Module-One-C-Sharp)  
+  A C# project built as part of my Microsoft full-stack learning path, demonstrating problem-solving and application design.
+
+- [**Pokemon-API-JavaScript**](https://github.com/DDurant94/Pokemon-API-JavaScript)  
+  A JavaScript project that works with external API data to search and display Pokémon information.
+
+---
 
 ## 🛠️ Languages & Tools
-
-<br/>
 
 <div align="center">
 
@@ -201,15 +209,9 @@ I'm driven by clean architecture, scalable systems, and the belief that well-cra
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
 ## 🔥 My Stats
-
-<br/>
 
 <div align="center">
 
@@ -217,18 +219,9 @@ I'm driven by clean architecture, scalable systems, and the belief that well-cra
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-<br/>
-<br/>
 
 ### 🤝 Let's connect and build something amazing together!
 
