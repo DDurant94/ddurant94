@@ -47,16 +47,16 @@ I’m currently completing the **Microsoft Full-Stack Developer Professional Cer
 ## 📌 Featured Projects
 
 - [**DevDaniel-Portfolio**](https://github.com/DDurant94/DevDaniel-Portfolio)  
-  Personal portfolio site showcasing my projects, design approach, and front-end development work.
+  A personal portfolio website built to showcase my projects, development skills, and design approach, with an emphasis on creating a clean, modern user experience.
 
 - [**Advanced-E-Commerce-API**](https://github.com/DDurant94/Advanced-E-Commerce-API)  
-  A backend API project focused on building structured, scalable functionality for e-commerce workflows.
+  A backend API project designed to model real-world e-commerce workflows, focusing on structured architecture, scalable functionality, and practical backend development patterns.
 
 - [**Inventory-Management-System-Module-One-C-Sharp**](https://github.com/DDurant94/Inventory-Management-System-Module-One-C-Sharp)  
-  A C# project built as part of my Microsoft full-stack learning path, demonstrating problem-solving and application design.
+  A C# application developed as part of my Microsoft full-stack learning path, demonstrating object-oriented programming, application structure, and problem-solving in a business-focused scenario.
 
 - [**Pokemon-API-JavaScript**](https://github.com/DDurant94/Pokemon-API-JavaScript)  
-  A JavaScript project that works with external API data to search and display Pokémon information.
+  A JavaScript project that integrates with external API data to search and display Pokémon information, strengthening my experience with API consumption, asynchronous logic, and dynamic UI updates.
 
 ---
 
