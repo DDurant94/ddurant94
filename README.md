@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I’m Daniel Durant, a developer based in Kansas with a strong interest in APIs, backend systems, and full-stack applications.
+I’m Daniel Durant, a software developer based in Kansas with a strong interest in APIs, backend systems, and full-stack applications.
 
 I began my software development journey in December 2023 and have been building projects that strengthen my skills across backend development, web applications, automation, and cloud technologies. I enjoy creating practical, well-structured solutions and continuing to grow through hands-on development.
 
