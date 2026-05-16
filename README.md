@@ -23,7 +23,17 @@ I’m Daniel Durant, a software developer based in Kansas with a strong interest
 I began my software development journey in December 2023 and have been building projects that strengthen my skills across backend development, web applications, automation, and cloud technologies. I enjoy creating practical, well-structured solutions and continuing to grow through hands-on development.
 
 I’m currently completing the **Microsoft Full-Stack Developer Professional Certificate** on Coursera, where I’m expanding my knowledge of C#, .NET, Blazor, and modern full-stack development practices.
+```python
+func Greet(name: str):
+  print(f"Hello {name}! It's nice to meet you.")
+```
+```cs
+ static void Greet(string name)
+  {
+  Console.WriteLine($"Hello {name}! It's nice to meet you.")
+  }
 
+```
 | | |
 |---|---|
 | 🏠 **Location** | Kansas, USA |
