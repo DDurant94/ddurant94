@@ -213,14 +213,20 @@ I’m currently completing the **Microsoft Full-Stack Developer Professional Cer
 <div>
   
 ```python
+name = "YourName"
 func Greet(name: str):
   print(f"Hello {name}! It's nice to meet you.")
+
+Greet(name)
 ```
 ```cs
+public string name = "YourName";
 static void Greet(string name)
 {
   Console.WriteLine($"Hello {name}! It's nice to meet you.");
 }
+
+Greet(name);
 ```
 
 </div>
