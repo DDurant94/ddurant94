@@ -208,6 +208,8 @@ I’m currently completing the **Microsoft Full-Stack Developer Professional Cer
   </tr>
 </table>
 
+</div>
+
 <div align="center">
   
 ```python
@@ -220,8 +222,6 @@ func Greet(name: str):
   Console.WriteLine($"Hello {name}! It's nice to meet you.")
   }
 ```
-
-</div>
 
 </div>
 
