@@ -24,20 +24,7 @@ I began my software development journey in December 2023 and have been building 
 
 I’m currently completing the **Microsoft Full-Stack Developer Professional Certificate** on Coursera, where I’m expanding my knowledge of C#, .NET, Blazor, and modern full-stack development practices.
 
-<div align="center" width="80%" >
-  
-```python
-func Greet(name: str):
-  print(f"Hello {name}! It's nice to meet you.")
-```
-```cs
- static void Greet(string name)
-  {
-  Console.WriteLine($"Hello {name}! It's nice to meet you.")
-  }
-```
 
-</div>
 | | |
 |---|---|
 | 🏠 **Location** | Kansas, USA |
@@ -220,6 +207,21 @@ func Greet(name: str):
     </td>
   </tr>
 </table>
+
+<div align="center">
+  
+```python
+func Greet(name: str):
+  print(f"Hello {name}! It's nice to meet you.")
+```
+```cs
+ static void Greet(string name)
+  {
+  Console.WriteLine($"Hello {name}! It's nice to meet you.")
+  }
+```
+
+</div>
 
 </div>
 
