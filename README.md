@@ -210,7 +210,7 @@ I’m currently completing the **Microsoft Full-Stack Developer Professional Cer
 
 </div>
 
-<div align="center">
+<div>
   
 ```python
 func Greet(name: str):
