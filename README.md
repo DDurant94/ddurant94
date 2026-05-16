@@ -214,13 +214,13 @@ I’m currently completing the **Microsoft Full-Stack Developer Professional Cer
   
 ```python
 func Greet(name: str):
-  print(f"Hello {name}! It's nice to meet you.")
+print(f"Hello {name}! It's nice to meet you.")
 ```
 ```cs
  static void Greet(string name)
-  {
-  Console.WriteLine($"Hello {name}! It's nice to meet you.")
-  }
+{
+Console.WriteLine($"Hello {name}! It's nice to meet you.");
+}
 ```
 
 </div>
