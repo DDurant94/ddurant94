@@ -211,7 +211,8 @@ I’m currently completing the **Microsoft Full-Stack Developer Professional Cer
 </div>
 
 <div>
-  
+
+### Python
 ```python
 name = "YourName"
 func Greet(name: str):
@@ -219,6 +220,8 @@ func Greet(name: str):
 
 Greet(name)
 ```
+
+### C#
 ```cs
 public string name = "YourName";
 static void Greet(string name)
@@ -228,8 +231,9 @@ static void Greet(string name)
 
 Greet(name);
 ```
+### JavaScript
 ```js
-let name = ""YourName";
+let name = "YourName";
 
 function Greet(name){
 console.log(`Hello ${name}! It's nice to meet you.`)
