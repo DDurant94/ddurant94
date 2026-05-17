@@ -215,7 +215,7 @@ I’m currently completing the **Microsoft Full-Stack Developer Professional Cer
 ### Python
 ```python
 name = "YourName"
-func Greet(name: str):
+def Greet(name: str):
   print(f"Hello {name}! It's nice to meet you.")
 
 Greet(name)
@@ -223,21 +223,41 @@ Greet(name)
 
 ### C#
 ```cs
-public string name = "YourName";
-static void Greet(string name)
+using System;
+
+class Program
 {
-  Console.WriteLine($"Hello {name}! It's nice to meet you.");
+    public static string name = "YourName";
+
+    static void Greet(string name)
+    {
+        Console.WriteLine($"Hello {name}! It's nice to meet you.");
+    }
+
+    static void Main(string[] args)
+    {
+        Greet(name);
+    }
 }
 
-Greet(name);
 ```
 ### JavaScript
 ```js
 let name = "YourName";
 
 function Greet(name){
-console.log(`Hello ${name}! It's nice to meet you.`)
-};
+  console.log(`Hello ${name}! It's nice to meet you.`);
+}
+
+Greet(name);
+```
+### TypeScript
+```ts
+let name: string = "YourName";
+
+function Greet(name: string){
+  console.log(`Hello ${name}! It's nice to meet you.`);
+}
 
 Greet(name);
 ```
