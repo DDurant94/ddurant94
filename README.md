@@ -228,6 +228,15 @@ static void Greet(string name)
 
 Greet(name);
 ```
+```js
+let name = ""YourName";
+
+function Greet(name){
+console.log(`Hello ${name}! It's nice to meet you.`)
+};
+
+Greet(name);
+```
 
 </div>
 
