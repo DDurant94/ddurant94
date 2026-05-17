@@ -212,7 +212,7 @@ I’m currently completing the **Microsoft Full-Stack Developer Professional Cer
 
 <div>
 
-### Python
+#### Python
 ```python
 name = "YourName"
 def Greet(name: str):
@@ -221,7 +221,7 @@ def Greet(name: str):
 Greet(name)
 ```
 
-### C#
+#### C#
 ```cs
 using System;
 
@@ -241,7 +241,7 @@ class Program
 }
 
 ```
-### JavaScript
+#### JavaScript
 ```js
 let name = "YourName";
 
@@ -251,7 +251,7 @@ function Greet(name){
 
 Greet(name);
 ```
-### TypeScript
+#### TypeScript
 ```ts
 let name: string = "YourName";
 
