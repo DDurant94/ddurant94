@@ -215,7 +215,7 @@ I’m currently completing the **Microsoft Full-Stack Developer Professional Cer
 #### Python
 ```python
 name = "YourName"
-def Greet(name: str):
+def greet(name: str):
   print(f"Hello {name}! It's nice to meet you.")
 
 Greet(name)
