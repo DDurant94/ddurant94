@@ -215,10 +215,17 @@ I’m currently completing the **Microsoft Full-Stack Developer Professional Cer
 #### Python
 ```python
 name = "YourName"
-def greet(name: str):
-  print(f"Hello {name}! It's nice to meet you.")
 
-Greet(name)
+class Greet:
+  def __init__(self, name="person"):
+    self.name = name
+
+  def greet(self):
+    print(f"Hello {self.name}! It's nice to meet you.")
+
+person = Greet(name)
+
+person.greet()
 ```
 
 #### C#
