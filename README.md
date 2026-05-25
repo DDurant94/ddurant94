@@ -27,7 +27,7 @@ I’m currently completing the **Microsoft Full-Stack Developer Professional Cer
 
 | | |
 |---|---|
-| 🏠 **Location** | Kansas, USA |
+| 🏠 **Location** | Central Kansas, USA |
 | 💻 **Primary Interests** | Backend Development · Full-Stack Applications · APIs |
 | 🌱 **Currently Learning** | Microsoft Full-Stack Developer Professional Certificate |
 | ☁️ **Exploring** | AWS · Google Cloud · Machine Learning |
