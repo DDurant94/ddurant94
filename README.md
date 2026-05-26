@@ -1,11 +1,8 @@
 <div align="center">
 
-<br/>
+# Daniel Durant 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Daniel+Durant+%F0%9F%91%8B;Developer+Focused+on+APIs%2C+Backend+Systems%2C+and+Full-Stack+Applications" alt="Typing SVG" />
-
-<br/>
-<br/>
+**Backend-focused Software Developer** interested in APIs, backend systems, and full-stack applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-durant-30a0252b9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannyjdurant@gmail.com)
@@ -18,258 +15,82 @@
 
 ## 👨‍💻 About Me
 
-I’m Daniel Durant, a software developer based in Kansas with a strong interest in APIs, backend systems, and full-stack applications.
+I’m a software developer based in Central Kansas focused on building APIs, backend systems, and full-stack applications. I enjoy creating practical projects that strengthen my skills in software architecture, problem-solving, and modern development tools.
 
-I began my software development journey in December 2023 and have been building projects that strengthen my skills across backend development, web applications, automation, and cloud technologies. I enjoy creating practical, well-structured solutions and continuing to grow through hands-on development.
-
-I’m currently completing the **Microsoft Full-Stack Developer Professional Certificate** on Coursera, where I’m expanding my knowledge of C#, .NET, Blazor, and modern full-stack development practices.
-
-
-| | |
-|---|---|
-| 🏠 **Location** | Central Kansas, USA |
-| 💻 **Primary Interests** | Backend Development · Full-Stack Applications · APIs |
-| 🌱 **Currently Learning** | Microsoft Full-Stack Developer Professional Certificate |
-| ☁️ **Exploring** | AWS · Google Cloud · Machine Learning |
-| 🧠 **Skill Building** | LeetCode · HackerEarth · Codewars |
-| 🌐 **Portfolio** | [devdaniel.tech](https://devdaniel.tech/) |
-| 📫 **Contact** | [LinkedIn](https://www.linkedin.com/in/daniel-durant-30a0252b9/) · [Gmail](mailto:dannyjdurant@gmail.com) |
-
----
-
-## 🚀 Current Focus
-
-- Completing the **Microsoft Full-Stack Developer Professional Certificate** on Coursera
-- Building projects that strengthen my skills in **APIs, backend systems, and full-stack development**
-- Expanding my knowledge of **C#, .NET, Blazor, cloud platforms, and modern software development practices**
+- 🌱 Currently learning **C#**, **.NET**, and **Blazor** through the **Microsoft Full-Stack Developer Professional Certificate**
+- ☁️ Exploring **AWS**, **Google Cloud**, and modern software development practices
+- 🧠 Strengthening problem-solving through **LeetCode**, **HackerEarth**, and **Codewars**
+- 🌐 Portfolio: [devdaniel.tech](https://devdaniel.tech/)
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/daniel-durant-30a0252b9/) · [Gmail](mailto:dannyjdurant@gmail.com)
 
 ---
 
 ## 📌 Featured Projects
 
 - [**DevDaniel-Portfolio**](https://github.com/DDurant94/DevDaniel-Portfolio)  
-  A personal portfolio website built to showcase my projects, development skills, and design approach, with an emphasis on creating a clean, modern user experience.
+  Personal portfolio website built to showcase my projects, technical skills, and design approach with a clean, modern user experience.  
+  **Tech:** HTML, CSS, JavaScript
 
 - [**Advanced-E-Commerce-API**](https://github.com/DDurant94/Advanced-E-Commerce-API)  
-  A backend API project designed to model real-world e-commerce workflows, focusing on structured architecture, scalable functionality, and practical backend development patterns.
+  Backend API project modeling real-world e-commerce workflows such as products, orders, and structured business logic, with an emphasis on scalable backend design.  
+  **Tech:** Backend APIs, JavaScript, Node.js
 
 - [**Inventory-Management-System-Module-One-C-Sharp**](https://github.com/DDurant94/Inventory-Management-System-Module-One-C-Sharp)  
-  A C# application developed as part of my Microsoft full-stack learning path, demonstrating object-oriented programming, application structure, and problem-solving in a business-focused scenario.
+  C# application built as part of my Microsoft full-stack learning path, demonstrating object-oriented programming, application structure, and business-focused problem-solving.  
+  **Tech:** C#, .NET
 
 - [**Pokemon-API-JavaScript**](https://github.com/DDurant94/Pokemon-API-JavaScript)  
-  A JavaScript project that integrates with external API data to search and display Pokémon information, strengthening my experience with API consumption, asynchronous logic, and dynamic UI updates.
+  JavaScript application that consumes external API data to search and display Pokémon information, strengthening my experience with asynchronous logic, API integration, and dynamic UI updates.  
+  **Tech:** JavaScript, APIs, HTML, CSS
 
 ---
 
-## 🛠️ Languages & Tools
+## 🚀 Current Focus
 
-<div align="center">
+- Completing the **Microsoft Full-Stack Developer Professional Certificate**
+- Building projects that strengthen my skills in **APIs, backend systems, and full-stack development**
+- Expanding my knowledge of **C#**, **.NET**, **Blazor**, cloud platforms, and modern software development practices
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /><br/>
-      <sub><b>C#</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" /><br/>
-      <sub><b>R</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /><br/>
-      <sub><b>GraphQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown" /><br/>
-      <sub><b>Markdown</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /><br/>
-      <sub><b>.NET</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br/>
-      <sub><b>Bootstrap</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br/>
-      <sub><b>Flask</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br/>
-      <sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br/>
-      <sub><b>Vite</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" /><br/>
-      <sub><b>Three.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" /><br/>
-      <sub><b>Anaconda</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br/>
-      <sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" /><br/>
-      <sub><b>Google Cloud</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br/>
-      <sub><b>AWS</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/>
-      <sub><b>Linux</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" /><br/>
-      <sub><b>Ubuntu</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br/>
-      <sub><b>GH Actions</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br/>
-      <sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br/>
-      <sub><b>Figma</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br/>
-      <sub><b>Blender</b></sub>
-    </td>
-  </tr>
-</table>
+---
 
-</div>
+## 🛠️ Tech Stack
 
-<div>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Python
-```python
-name = "YourName"
+### Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-class Greet:
-  def __init__(self, name="person"):
-    self.name = name
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-  def greet(self):
-    print(f"Hello {self.name}! It's nice to meet you.")
-
-person = Greet(name)
-
-person.greet()
-```
-
-#### C#
-```cs
-using System;
-
-class Program
-{
-    public static string name = "YourName";
-
-    static void Greet(string name)
-    {
-        Console.WriteLine($"Hello {name}! It's nice to meet you.");
-    }
-
-    static void Main(string[] args)
-    {
-        Greet(name);
-    }
-}
-
-```
-#### JavaScript
-```js
-let name = "YourName";
-
-function Greet(name){
-  console.log(`Hello ${name}! It's nice to meet you.`);
-}
-
-Greet(name);
-```
-#### TypeScript
-```ts
-let name: string = "YourName";
-
-function Greet(name: string){
-  console.log(`Hello ${name}! It's nice to meet you.`);
-}
-
-Greet(name);
-```
-
-</div>
+### Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
@@ -285,13 +106,9 @@ Greet(name);
 
 <div align="center">
 
-### 🤝 Let's connect and build something amazing together!
-
-<br/>
+## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-durant-30a0252b9/)
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-121013?style=for-the-badge&logo=github&logoColor=white)](https://devdaniel.tech/)
-
-<br/>
 
 </div>
