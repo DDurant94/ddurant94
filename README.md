@@ -98,7 +98,7 @@ I’m a software developer based in Central Kansas focused on building APIs, bac
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DDurant94&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DDurant94&theme=dark&hide_border=false&v=2)](https://git.io/streak-stats)
 
 </div>
 
