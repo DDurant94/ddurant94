@@ -2,7 +2,7 @@
 
 # Daniel Durant 👋
 
-**Backend-focused Software Developer** interested in APIs, backend systems, and full-stack applications.
+**Full-Stack Software Developer** with a deeper focus on back-end development, APIs, system design, and application architecture.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-durant-30a0252b9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannyjdurant@gmail.com)
