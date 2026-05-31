@@ -1,6 +1,6 @@
 <div align="center">
 
-# Daniel Durant 👋
+# Daniel Durant
 
 **Full-Stack Software Developer** with a deep focus on back-end development, APIs, system design, and application architecture.
 
