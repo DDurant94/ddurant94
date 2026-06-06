@@ -112,3 +112,5 @@ I’m a software developer based in Central Kansas focused on building APIs, bac
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-121013?style=for-the-badge&logo=github&logoColor=white)](https://devdaniel.tech/)
 
 </div>
+
+———
