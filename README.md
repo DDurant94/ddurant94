@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a software developer based in Kansas focused on building APIs, backend systems, and full-stack applications. I enjoy creating practical projects that strengthen my skills in software architecture, problem-solving, and modern development tools.
+I’m a software developer based in central Kansas focused on building APIs, backend systems, and full-stack applications. I enjoy creating practical projects that strengthen my skills in software architecture, problem-solving, and modern development tools.
 
 - 🌱 Currently learning **C#**, **.NET**, and **Blazor** through the **Microsoft Full-Stack Developer Professional Certificate**
 - ☁️ Exploring **AWS**, **Google Cloud**, and modern software development practices
